@@ -1,0 +1,32 @@
+{
+	"name": "@clazex/gulp",
+	"version": "0.1.0",
+	"description": "Extended gulp",
+	"license": "MIT",
+	"author": "Clazex <clazex.y@gmail.com>",
+	"main": "index.js",
+	"scripts": {},
+	"homepage": "https://github.com/Clazex/clazex-gulp#readme",
+	"repository": "github:Clazex/clazex-gulp",
+	"bugs": {
+		"url": "https://github.com/Clazex/clazex-gulp/issues"
+	},
+	"dependencies": {
+		"gulp": "^4.0.2",
+		"gulp-load-plugins": "^2.0.6",
+		"gulp-plumber": "^1.2.1"
+	},
+	"publishConfig": {
+		"access": "public"
+	},
+	"files": [],
+	"engines": {
+		"node": ">= 12",
+		"npm": ">= 6"
+	},
+	"keywords": [
+		"gulp",
+		"gulpfriendly",
+		"plugins"
+	]
+}
